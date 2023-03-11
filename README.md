@@ -1,2 +1,2 @@
 # aspect-based-sentiment-analysis
-Алгоритм определения атрибутивной тональности отзывов. В качестве примера был выбран датасет с отзывами с Кинопоиска. Проект реализовывался в качестве учебной практики в университете.
+Algorithm for determining atrribute tonality of reviews. Algorithm was fitted on dataset with Kinopoisk reviews (russian language).
